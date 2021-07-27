@@ -1,2 +1,3 @@
-vendor.zip required
+vendor.zip required 
+
 composer.lock required
